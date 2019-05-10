@@ -28,7 +28,7 @@
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
+            <state relative-caret-position="1003">
               <caret line="84" column="22" lean-forward="false" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
               <folding>
                 <element signature="e#1946#1947#0" expanded="true" />
@@ -53,8 +53,8 @@
       <file leaf-file-name="SecurityConfig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/config/SecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="90" column="53" lean-forward="false" selection-start-line="90" selection-start-column="53" selection-end-line="90" selection-end-column="53" />
+            <state relative-caret-position="17">
+              <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1831#1832#0" expanded="true" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="InsertDoctorRequest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/payload/InsertDoctorRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
+            <state relative-caret-position="68">
               <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
               <folding />
             </state>
@@ -79,7 +79,7 @@
       <file leaf-file-name="JwtAuthenticationEntryPoint.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JwtAuthenticationEntryPoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="85">
               <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -91,7 +91,7 @@
       <file leaf-file-name="JWTAuthenticationFilter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JWTAuthenticationFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
+            <state relative-caret-position="714">
               <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -103,12 +103,10 @@
       <file leaf-file-name="JwtTokenProvider.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JwtTokenProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
+            <state relative-caret-position="952">
               <caret line="62" column="1" lean-forward="false" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#463#481#1" expanded="true" />
-                <element signature="e#525#551#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,7 +146,7 @@
       <file leaf-file-name="CurrentUser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/CurrentUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="170">
               <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -176,7 +174,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../restfulproject" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../restfulproject" value="master" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
@@ -220,26 +218,26 @@
         <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/repository/DoctorRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/repository/PatientRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/controller/DoctorPatientController.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/pom.xml" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/SecurityConstants.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JWTAuthorizationFilter.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/RestfulApiApplication.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/WebSecurity.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/service/UserDetailsServiceImplementation.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/model/User.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/payload/SignupRequest.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JWTAuthenticationFilter.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JwtAuthenticationEntryPoint.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/UserPrincipal.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/repository/UserRepository.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/CustomUserDetailsService.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JwtAuthenticationFilter.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JwtTokenProvider.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/payload/JwtAuthenticationResponse.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/CurrentUser.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/security/SecurityConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/security/JWTAuthorizationFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/RestfulApiApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/security/WebSecurity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/service/UserDetailsServiceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/payload/SignupRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/security/JWTAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/security/JwtAuthenticationEntryPoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/security/UserPrincipal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/security/CustomUserDetailsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/security/JwtAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/security/JwtTokenProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/payload/JwtAuthenticationResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/security/CurrentUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restfulproject/dhrubo/config/SecurityConfig.java" />
       </list>
     </option>
   </component>
@@ -288,8 +286,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -398,7 +396,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -406,7 +404,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/..//////spring-security-react-ant-design-polls-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/..////////spring-security-react-ant-design-polls-app" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -538,7 +536,9 @@
       <workItem from="1533909135695" duration="1931000" />
       <workItem from="1534258471876" duration="134000" />
       <workItem from="1534490155641" duration="16332000" />
-      <workItem from="1534692204041" duration="17808000" />
+      <workItem from="1534692204041" duration="17923000" />
+      <workItem from="1541793488265" duration="18000" />
+      <workItem from="1543484549423" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="init commit. project setup complete">
       <created>1532838414008</created>
@@ -589,11 +589,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534782138435</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="security working Jwt tokens needs testing and bug fixing on development branch">
+      <created>1534782184978</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1534782184978</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83050000" />
+    <option name="totallyTimeSpent" value="83235000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -613,15 +620,15 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.50612247" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.50612247" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21836735" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.49387756" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49387756" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30228758" sideWeight="0.49591836" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07244898" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.074489795" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -653,7 +660,8 @@
     <MESSAGE value="api update endpoints working" />
     <MESSAGE value="api delete endpoints working" />
     <MESSAGE value="security working Jwt tokens needs testing and bug fixing" />
-    <option name="LAST_COMMIT_MESSAGE" value="security working Jwt tokens needs testing and bug fixing" />
+    <MESSAGE value="security working Jwt tokens needs testing and bug fixing on development branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="security working Jwt tokens needs testing and bug fixing on development branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -666,20 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#377#378#0" expanded="false" />
-            <element signature="e#410#411#0" expanded="false" />
-            <element signature="e#462#463#0" expanded="false" />
-            <element signature="e#506#507#0" expanded="false" />
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#566#567#0" expanded="false" />
-            <element signature="e#608#609#0" expanded="false" />
-            <element signature="e#642#643#0" expanded="false" />
-            <element signature="e#675#676#0" expanded="false" />
-            <element signature="e#704#705#0" expanded="false" />
-            <element signature="e#748#749#0" expanded="false" />
-            <element signature="e#784#785#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -713,16 +707,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#252#253#0" expanded="false" />
-            <element signature="e#286#287#0" expanded="false" />
-            <element signature="e#321#322#0" expanded="false" />
-            <element signature="e#352#353#0" expanded="false" />
-            <element signature="e#400#401#0" expanded="false" />
-            <element signature="e#440#441#0" expanded="false" />
-            <element signature="e#472#473#0" expanded="false" />
-            <element signature="e#500#501#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -730,9 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,20 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#377#378#0" expanded="false" />
-            <element signature="e#410#411#0" expanded="false" />
-            <element signature="e#462#463#0" expanded="false" />
-            <element signature="e#506#507#0" expanded="false" />
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#566#567#0" expanded="false" />
-            <element signature="e#608#609#0" expanded="false" />
-            <element signature="e#642#643#0" expanded="false" />
-            <element signature="e#675#676#0" expanded="false" />
-            <element signature="e#704#705#0" expanded="false" />
-            <element signature="e#748#749#0" expanded="false" />
-            <element signature="e#784#785#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -785,33 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-663">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#971#972#0" expanded="false" />
-            <element signature="e#998#999#0" expanded="false" />
-            <element signature="e#1038#1039#0" expanded="false" />
-            <element signature="e#1070#1071#0" expanded="false" />
-            <element signature="e#1103#1104#0" expanded="false" />
-            <element signature="e#1132#1133#0" expanded="false" />
-            <element signature="e#1176#1177#0" expanded="false" />
-            <element signature="e#1212#1213#0" expanded="false" />
-            <element signature="e#1242#1243#0" expanded="false" />
-            <element signature="e#1268#1269#0" expanded="false" />
-            <element signature="e#1306#1307#0" expanded="false" />
-            <element signature="e#1336#1337#0" expanded="false" />
-            <element signature="e#1369#1370#0" expanded="false" />
-            <element signature="e#1398#1399#0" expanded="false" />
-            <element signature="e#1442#1443#0" expanded="false" />
-            <element signature="e#1478#1479#0" expanded="false" />
-            <element signature="e#1515#1516#0" expanded="false" />
-            <element signature="e#1548#1549#0" expanded="false" />
-            <element signature="e#1600#1601#0" expanded="false" />
-            <element signature="e#1644#1645#0" expanded="false" />
-            <element signature="e#1686#1687#0" expanded="false" />
-            <element signature="e#1724#1725#0" expanded="false" />
-            <element signature="e#1786#1787#0" expanded="false" />
-            <element signature="e#1840#1841#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -819,7 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-34">
           <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -827,14 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#161#162#0" expanded="false" />
-            <element signature="e#197#198#0" expanded="false" />
-            <element signature="e#230#231#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#303#304#0" expanded="false" />
-            <element signature="e#339#340#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -842,14 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#164#165#0" expanded="false" />
-            <element signature="e#200#201#0" expanded="false" />
-            <element signature="e#233#234#0" expanded="false" />
-            <element signature="e#262#263#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#342#343#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -913,20 +837,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/void(0).url">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/void(0).url" />
     <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/repository/DoctorRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -934,7 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -942,15 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="90" column="31" lean-forward="false" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1512#1513#0" expanded="false" />
-            <element signature="e#1561#1562#0" expanded="false" />
-            <element signature="e#1647#1648#0" expanded="false" />
-            <element signature="e#1697#1698#0" expanded="false" />
-            <element signature="e#1817#1818#0" expanded="false" />
-            <element signature="e#1869#1870#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -979,7 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -987,36 +891,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/WebSecurity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/SecurityConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JWTAuthorizationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/WebSecurity.java" />
+    <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/SecurityConstants.java" />
+    <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JWTAuthorizationFilter.java" />
     <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
@@ -1034,7 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="108" column="18" lean-forward="false" selection-start-line="108" selection-start-column="18" selection-end-line="108" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1042,7 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1050,9 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1060,13 +935,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/CurrentUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="170">
           <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1111,7 +985,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JWTAuthenticationFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="714">
           <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1121,19 +995,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JwtTokenProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
+        <state relative-caret-position="952">
           <caret line="62" column="1" lean-forward="false" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#463#481#1" expanded="true" />
-            <element signature="e#525#551#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
+        <state relative-caret-position="1003">
           <caret line="84" column="22" lean-forward="false" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
           <folding>
             <element signature="e#1946#1947#0" expanded="true" />
@@ -1146,7 +1018,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/payload/InsertDoctorRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
+        <state relative-caret-position="68">
           <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
           <folding />
         </state>
@@ -1154,7 +1026,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/security/JwtAuthenticationEntryPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="85">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1164,8 +1036,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../restfulproject/src/main/java/com/restfulproject/dhrubo/config/SecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="90" column="53" lean-forward="false" selection-start-line="90" selection-start-column="53" selection-end-line="90" selection-end-column="53" />
+        <state relative-caret-position="17">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1831#1832#0" expanded="true" />
